@@ -1,0 +1,17 @@
+[
+  {
+    "name": "energiehuis",
+    "type": "voc",
+    "eap": "OSLO-Energiehuis-VOC.eap",
+    "diagram": "OSLO-Energiehuis-VOC",
+    "template": "energiehuis-voc.j2",
+    "title": "Energiehuis",
+    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
+    "publication-date": "2024-12-03",
+    "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "Rol",
+    "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-energiehuis/issues",
+    "standaardregisterurl": "https://data.vlaanderen.be/standaarden/vocabularium-energiehuis/"
+  }
+]
