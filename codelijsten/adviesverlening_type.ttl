@@ -1,0 +1,13 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://data.vlaanderen.be/id/conceptscheme/energiehuis/AdviesverleningType>
+    a skos:ConceptScheme ;
+    skos:prefLabel "Conceptscheme type van adviesverlening" ;
+    skos:definition "Codelijst voor type van adviesverlening." .
+
+<https://data.vlaanderen.be/id/concept/energiehuis/AdviesverleningType/TechnischAdvies > 
+    a skos:Concept ;
+    skos:prefLabel "Technisch advies" ;
+    skos:definition "Technisch advies." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/energiehuis/AdviesverleningType> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/energiehuis/AdviesverleningType> .
