@@ -5,7 +5,7 @@
     skos:prefLabel "Conceptscheme type van adviesverlening" ;
     skos:definition "Codelijst voor type van adviesverlening." .
 
-<https://data.vlaanderen.be/id/concept/energiehuis/AdviesverleningType/TechnischAdvies > 
+<https://data.vlaanderen.be/id/concept/energiehuis/AdviesverleningType/TechnischAdvies> 
     a skos:Concept ;
     skos:prefLabel "Technisch advies" ;
     skos:definition "Technisch advies." ;
