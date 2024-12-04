@@ -1,0 +1,76 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://data.vlaanderen.be/id/conceptscheme/energiehuis/CategorieWerken>
+    a skos:ConceptScheme ;
+    skos:prefLabel "Conceptscheme categorie van werken" ;
+    skos:definition "Codelijst categorie van werken." .
+
+<https://data.vlaanderen.be/id/concept/energiehuis/CategorieWerken/RamenEnDeuren> 
+    a skos:Concept ;
+    skos:prefLabel "Ramen en deuren" ;
+    skos:definition "Ramen en deuren." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/energiehuis/CategorieWerken> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/energiehuis/CategorieWerken> .
+
+<https://data.vlaanderen.be/id/concept/energiehuis/CategorieWerken/Dak> 
+    a skos:Concept ;
+    skos:prefLabel "Dak" ;
+    skos:definition "Dak." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/energiehuis/CategorieWerken> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/energiehuis/CategorieWerken> .
+
+<https://data.vlaanderen.be/id/concept/energiehuis/CategorieWerken/Buitenmuren> 
+    a skos:Concept ;
+    skos:prefLabel "Buitenmuren" ;
+    skos:definition "Buitenmuren." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/energiehuis/CategorieWerken> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/energiehuis/CategorieWerken> .
+
+<https://data.vlaanderen.be/id/concept/energiehuis/CategorieWerken/Vloer> 
+    a skos:Concept ;
+    skos:prefLabel "Vloer" ;
+    skos:definition "Vloer." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/energiehuis/CategorieWerken> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/energiehuis/CategorieWerken> .
+
+<https://data.vlaanderen.be/id/concept/energiehuis/CategorieWerken/Binnenrenovatie> 
+    a skos:Concept ;
+    skos:prefLabel "Binnenrenovatie" ;
+    skos:definition "Binnenrenovatie." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/energiehuis/CategorieWerken> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/energiehuis/CategorieWerken> .
+
+<https://data.vlaanderen.be/id/concept/energiehuis/CategorieWerken/ElektriciteitEnSanitair> 
+    a skos:Concept ;
+    skos:prefLabel "Elektriciteit en sanitair" ;
+    skos:definition "Elektriciteit en sanitair." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/energiehuis/CategorieWerken> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/energiehuis/CategorieWerken> .
+
+<https://data.vlaanderen.be/id/concept/energiehuis/CategorieWerken/Warmtepomp> 
+    a skos:Concept ;
+    skos:prefLabel "Warmtepomp" ;
+    skos:definition "Warmtepomp." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/energiehuis/CategorieWerken> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/energiehuis/CategorieWerken> .
+
+<https://data.vlaanderen.be/id/concept/energiehuis/CategorieWerken/Warmtepompboiler> 
+    a skos:Concept ;
+    skos:prefLabel "Warmtepompboiler" ;
+    skos:definition "Warmtepompboiler." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/energiehuis/CategorieWerken> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/energiehuis/CategorieWerken> .
+
+<https://data.vlaanderen.be/id/concept/energiehuis/CategorieWerken/Zonneboiler> 
+    a skos:Concept ;
+    skos:prefLabel "Zonneboiler" ;
+    skos:definition "Zonneboiler." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/energiehuis/CategorieWerken> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/energiehuis/CategorieWerken> .
+
+<https://data.vlaanderen.be/id/concept/energiehuis/CategorieWerken/Gascondensatieketel> 
+    a skos:Concept ;
+    skos:prefLabel "Gascondensatieketel" ;
+    skos:definition "Gascondensatieketel." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/energiehuis/CategorieWerken> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/energiehuis/CategorieWerken> .

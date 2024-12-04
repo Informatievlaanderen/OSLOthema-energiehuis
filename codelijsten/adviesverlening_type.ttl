@@ -11,3 +11,46 @@
     skos:definition "Technisch advies." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/energiehuis/AdviesverleningType> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/energiehuis/AdviesverleningType> .
+
+
+<https://data.vlaanderen.be/id/concept/energiehuis/AdviesverleningType/RenovatieAdvies> 
+    a skos:Concept ;
+    skos:prefLabel "Renovatie-advies" ;
+    skos:definition "Renovatie-advies." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/energiehuis/AdviesverleningType> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/energiehuis/AdviesverleningType> .
+
+<https://data.vlaanderen.be/id/concept/energiehuis/AdviesverleningType/PrioriteitenBepalen> 
+    a skos:Concept ;
+    skos:prefLabel "Prioriteiten bepalen" ;
+    skos:definition "Prioriteiten bepalen (stappenplan uitwerken)." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/energiehuis/AdviesverleningType> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/energiehuis/AdviesverleningType> .
+
+<https://data.vlaanderen.be/id/concept/energiehuis/AdviesverleningType/Budgetraming> 
+    a skos:Concept ;
+    skos:prefLabel "Budgetraming" ;
+    skos:definition "Budgetraming." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/energiehuis/AdviesverleningType> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/energiehuis/AdviesverleningType> .
+
+<https://data.vlaanderen.be/id/concept/energiehuis/AdviesverleningType/Financieringsopties> 
+    a skos:Concept ;
+    skos:prefLabel "Financieringsopties in kaart brengen" ;
+    skos:definition "Financieringsopties in kaart brengen (aan de hand van inkomenscheck)." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/energiehuis/AdviesverleningType> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/energiehuis/AdviesverleningType> .
+
+<https://data.vlaanderen.be/id/concept/energiehuis/AdviesverleningType/FinancieelAdvies> 
+    a skos:Concept ;
+    skos:prefLabel "Financieel advies" ;
+    skos:definition "Financieel advies." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/energiehuis/AdviesverleningType> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/energiehuis/AdviesverleningType> .
+
+<https://data.vlaanderen.be/id/concept/energiehuis/AdviesverleningType/EnergiescanType1> 
+    a skos:Concept ;
+    skos:prefLabel "Uitvoeren van een energiescan (type 1)" ;
+    skos:definition "Uitvoeren van een energiescan (type 1)." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/energiehuis/AdviesverleningType> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/energiehuis/AdviesverleningType> .
