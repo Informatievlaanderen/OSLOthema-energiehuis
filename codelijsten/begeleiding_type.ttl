@@ -1,58 +1,58 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://data.vlaanderen.be/id/conceptscheme/energiehuis/BegeleidingType>
+<https://data.vlaanderen.be/id/conceptscheme/BegeleidingType>
     a skos:ConceptScheme ;
     skos:prefLabel "Conceptscheme type van begeleiding" ;
     skos:definition "Codelijst voor type van begeleiding." .
 
-<https://data.vlaanderen.be/id/concept/energiehuis/BegeleidingType/Opvolgscan> 
+<https://data.vlaanderen.be/id/concept/BegeleidingType/Opvolgscan> 
     a skos:Concept ;
     skos:prefLabel "Opvolgscan" ;
     skos:definition "Opvolgscan." ;
-    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/energiehuis/BegeleidingType> ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/energiehuis/BegeleidingType> .
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> .
 
-<https://data.vlaanderen.be/id/concept/energiehuis/BegeleidingType/VTest> 
+<https://data.vlaanderen.be/id/concept/BegeleidingType/VTest> 
     a skos:Concept ;
     skos:prefLabel "V-test" ;
     skos:definition "V-test." ;
-    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/energiehuis/BegeleidingType> ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/energiehuis/BegeleidingType> .
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> .
 
-<https://data.vlaanderen.be/id/concept/energiehuis/BegeleidingType/COMeting> 
+<https://data.vlaanderen.be/id/concept/BegeleidingType/COMeting> 
     a skos:Concept ;
     skos:prefLabel "CO-meting" ;
     skos:definition "CO-meting." ;
-    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/energiehuis/BegeleidingType> ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/energiehuis/BegeleidingType> .
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> .
 
-<https://data.vlaanderen.be/id/concept/energiehuis/BegeleidingType/Renovatieproject> 
+<https://data.vlaanderen.be/id/concept/BegeleidingType/Renovatieproject> 
     a skos:Concept ;
     skos:prefLabel "Renovatieproject" ;
     skos:definition "Renovatieproject." ;
-    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/energiehuis/BegeleidingType> ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/energiehuis/BegeleidingType> .
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> .
 
-<https://data.vlaanderen.be/id/concept/energiehuis/BegeleidingType/Offerteaanvraag> 
+<https://data.vlaanderen.be/id/concept/BegeleidingType/Offerteaanvraag> 
     a skos:Concept ;
     skos:prefLabel "Offerteaanvraag" ;
     skos:definition "Offerteaanvraag." ;
-    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/energiehuis/BegeleidingType> ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/energiehuis/BegeleidingType> .
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> .
 
-<https://data.vlaanderen.be/id/concept/energiehuis/BegeleidingType/Premieaanvraag> 
+<https://data.vlaanderen.be/id/concept/BegeleidingType/Premieaanvraag> 
     a skos:Concept ;
     skos:prefLabel "Premieaanvraag" ;
     skos:definition "Premieaanvraag." ;
-    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/energiehuis/BegeleidingType> ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/energiehuis/BegeleidingType> .
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> .
 
-<https://data.vlaanderen.be/id/concept/energiehuis/BegeleidingType/Leningaanvraag> 
+<https://data.vlaanderen.be/id/concept/BegeleidingType/Leningaanvraag> 
     a skos:Concept ;
     skos:prefLabel "Leningaanvraag" ;
     skos:definition "Leningaanvraag." ;
-    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/energiehuis/BegeleidingType> ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/energiehuis/BegeleidingType> .
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> .
 
 
 

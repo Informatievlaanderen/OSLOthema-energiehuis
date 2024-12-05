@@ -1,76 +1,76 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://data.vlaanderen.be/id/conceptscheme/energiehuis/InformatievoorzieningType>
+<https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningType>
     a skos:ConceptScheme ;
     skos:prefLabel "Conceptscheme type van informatievoorziening" ;
     skos:definition "Codelijst voor type van informatievoorziening." .
 
-<https://data.vlaanderen.be/id/concept/energiehuis/InformatievoorzieningType/EnergetischeRenovatiewerken> 
+<https://data.vlaanderen.be/id/concept/InformatievoorzieningType/EnergetischeRenovatiewerken> 
     a skos:Concept ;
     skos:prefLabel "Energetische renovatiewerken" ;
     skos:definition "Energetische renovatiewerken (incl. thermografische info, zonnekaart, …)." ;
-    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/energiehuis/InformatievoorzieningType> ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/energiehuis/InformatievoorzieningType> .
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningType> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningType> .
 
-<https://data.vlaanderen.be/id/concept/energiehuis/InformatievoorzieningType/VragenEPC> 
+<https://data.vlaanderen.be/id/concept/InformatievoorzieningType/VragenEPC> 
     a skos:Concept ;
     skos:prefLabel "Vragen EPC" ;
     skos:definition "Vragen over energieprestatiecertificaten (EPC)." ;
-    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/energiehuis/InformatievoorzieningType> ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/energiehuis/InformatievoorzieningType> .
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningType> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningType> .
 
-<https://data.vlaanderen.be/id/concept/energiehuis/InformatievoorzieningType/PremiesInfo> 
+<https://data.vlaanderen.be/id/concept/InformatievoorzieningType/PremiesInfo> 
     a skos:Concept ;
     skos:prefLabel "Premies info" ;
     skos:definition "Informatie over premies" ;
-    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/energiehuis/InformatievoorzieningType> ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/energiehuis/InformatievoorzieningType> .
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningType> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningType> .
 
-<https://data.vlaanderen.be/id/concept/energiehuis/InformatievoorzieningType/PremiesAanvraag> 
+<https://data.vlaanderen.be/id/concept/InformatievoorzieningType/PremiesAanvraag> 
     a skos:Concept ;
     skos:prefLabel "Premies aanvraag" ;
     skos:definition "Aanvraag van premies" ;
-    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/energiehuis/InformatievoorzieningType> ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/energiehuis/InformatievoorzieningType> .
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningType> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningType> .
 
-<https://data.vlaanderen.be/id/concept/energiehuis/InformatievoorzieningType/LeningInfo> 
+<https://data.vlaanderen.be/id/concept/InformatievoorzieningType/LeningInfo> 
     a skos:Concept ;
     skos:prefLabel "Lening info" ;
     skos:definition "Informatie over leningen" ;
-    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/energiehuis/InformatievoorzieningType> ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/energiehuis/InformatievoorzieningType> .
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningType> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningType> .
 
-<https://data.vlaanderen.be/id/concept/energiehuis/InformatievoorzieningType/LeningAanvraag> 
+<https://data.vlaanderen.be/id/concept/InformatievoorzieningType/LeningAanvraag> 
     a skos:Concept ;
     skos:prefLabel "Lening aanvraag" ;
     skos:definition "Aanvraag van leningen." ;
-    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/energiehuis/InformatievoorzieningType> ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/energiehuis/InformatievoorzieningType> .
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningType> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningType> .
 
-<https://data.vlaanderen.be/id/concept/energiehuis/InformatievoorzieningType/Offertes> 
+<https://data.vlaanderen.be/id/concept/InformatievoorzieningType/Offertes> 
     a skos:Concept ;
     skos:prefLabel "Offertes" ;
     skos:definition "Offertes." ;
-    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/energiehuis/InformatievoorzieningType> ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/energiehuis/InformatievoorzieningType> .
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningType> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningType> .
 
-<https://data.vlaanderen.be/id/concept/energiehuis/InformatievoorzieningType/EnergiefactuurEnLeveranciersvergelijking> 
+<https://data.vlaanderen.be/id/concept/InformatievoorzieningType/EnergiefactuurEnLeveranciersvergelijking> 
     a skos:Concept ;
     skos:prefLabel "Energiefactuur en leveranciersvergelijking" ;
     skos:definition "Energiefactuur en leveranciersvergelijking." ;
-    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/energiehuis/InformatievoorzieningType> ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/energiehuis/InformatievoorzieningType> .
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningType> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningType> .
 
-<https://data.vlaanderen.be/id/concept/energiehuis/InformatievoorzieningType/VerwijzingEnergiescan> 
+<https://data.vlaanderen.be/id/concept/InformatievoorzieningType/VerwijzingEnergiescan> 
     a skos:Concept ;
     skos:prefLabel "Verwijzing energiescan" ;
     skos:definition "verwijzing energiescan." ;
-    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/energiehuis/InformatievoorzieningType> ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/energiehuis/InformatievoorzieningType> .
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningType> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningType> .
 
-<https://data.vlaanderen.be/id/concept/energiehuis/InformatievoorzieningType/VerwijzingBegeleiding> 
+<https://data.vlaanderen.be/id/concept/InformatievoorzieningType/VerwijzingBegeleiding> 
     a skos:Concept ;
     skos:prefLabel "Verwijzing begeleiding" ;
     skos:definition "Verwijzing begeleiding." ;
-    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/energiehuis/InformatievoorzieningType> ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/energiehuis/InformatievoorzieningType> .
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningType> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningType> .

@@ -1,62 +1,62 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://data.vlaanderen.be/id/conceptscheme/energiehuis/GeregistreerdKlantencontactOnderwerp>
+<https://data.vlaanderen.be/id/conceptscheme/GeregistreerdKlantencontactOnderwerp>
     a skos:ConceptScheme ;
     skos:prefLabel "Conceptscheme onderwerp van geregistreerd klantencontact" ;
     skos:definition "Codelijst onderwerp van geregistreerd klantencontact." .
 
-<https://data.vlaanderen.be/id/concept/energiehuis/GeregistreerdKlantencontactOnderwerp/EnergetischeRenovatiewerken> 
+<https://data.vlaanderen.be/id/concept/GeregistreerdKlantencontactOnderwerp/EnergetischeRenovatiewerken> 
     a skos:Concept ;
     skos:prefLabel "Energetische renovatiewerken" ;
     skos:definition "Energetische renovatiewerken." ;
-    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/energiehuis/GeregistreerdKlantencontactOnderwerp> ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/energiehuis/GeregistreerdKlantencontactOnderwerp> .
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/GeregistreerdKlantencontactOnderwerp> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/GeregistreerdKlantencontactOnderwerp> .
 
-<https://data.vlaanderen.be/id/concept/energiehuis/GeregistreerdKlantencontactOnderwerp/VragenEPC> 
+<https://data.vlaanderen.be/id/concept/GeregistreerdKlantencontactOnderwerp/VragenEPC> 
     a skos:Concept ;
     skos:prefLabel "Vragen EPC" ;
     skos:definition "Vragen EPC." ;
-    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/energiehuis/GeregistreerdKlantencontactOnderwerp> ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/energiehuis/GeregistreerdKlantencontactOnderwerp> .
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/GeregistreerdKlantencontactOnderwerp> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/GeregistreerdKlantencontactOnderwerp> .
 
-<https://data.vlaanderen.be/id/concept/energiehuis/GeregistreerdKlantencontactOnderwerp/PremiesInfo> 
+<https://data.vlaanderen.be/id/concept/GeregistreerdKlantencontactOnderwerp/PremiesInfo> 
     a skos:Concept ;
     skos:prefLabel "Premies info" ;
     skos:definition "Premies info." ;
-    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/energiehuis/GeregistreerdKlantencontactOnderwerp> ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/energiehuis/GeregistreerdKlantencontactOnderwerp> .
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/GeregistreerdKlantencontactOnderwerp> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/GeregistreerdKlantencontactOnderwerp> .
 
-<https://data.vlaanderen.be/id/concept/energiehuis/GeregistreerdKlantencontactOnderwerp/PremiesAanvraag> 
+<https://data.vlaanderen.be/id/concept/GeregistreerdKlantencontactOnderwerp/PremiesAanvraag> 
     a skos:Concept ;
     skos:prefLabel "Premies aanvraag" ;
     skos:definition "Premies aanvraag." ;
-    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/energiehuis/GeregistreerdKlantencontactOnderwerp> ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/energiehuis/GeregistreerdKlantencontactOnderwerp> .
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/GeregistreerdKlantencontactOnderwerp> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/GeregistreerdKlantencontactOnderwerp> .
 
-<https://data.vlaanderen.be/id/concept/energiehuis/GeregistreerdKlantencontactOnderwerp/Offertes> 
+<https://data.vlaanderen.be/id/concept/GeregistreerdKlantencontactOnderwerp/Offertes> 
     a skos:Concept ;
     skos:prefLabel "Offertes" ;
     skos:definition "Offertes." ;
-    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/energiehuis/GeregistreerdKlantencontactOnderwerp> ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/energiehuis/GeregistreerdKlantencontactOnderwerp> .
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/GeregistreerdKlantencontactOnderwerp> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/GeregistreerdKlantencontactOnderwerp> .
 
-<https://data.vlaanderen.be/id/concept/energiehuis/GeregistreerdKlantencontactOnderwerp/EnergiefactuurEnLeveranciersvergelijking> 
+<https://data.vlaanderen.be/id/concept/GeregistreerdKlantencontactOnderwerp/EnergiefactuurEnLeveranciersvergelijking> 
     a skos:Concept ;
     skos:prefLabel "Energiefactuur en leveranciersvergelijking" ;
     skos:definition "Energiefactuur en leveranciersvergelijking." ;
-    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/energiehuis/GeregistreerdKlantencontactOnderwerp> ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/energiehuis/GeregistreerdKlantencontactOnderwerp> .
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/GeregistreerdKlantencontactOnderwerp> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/GeregistreerdKlantencontactOnderwerp> .
 
-<https://data.vlaanderen.be/id/concept/energiehuis/GeregistreerdKlantencontactOnderwerp/TweedelijnsadviesEnergiescan> 
+<https://data.vlaanderen.be/id/concept/GeregistreerdKlantencontactOnderwerp/TweedelijnsadviesEnergiescan> 
     a skos:Concept ;
     skos:prefLabel "Tweedelijnsadvies energiescan" ;
     skos:definition "Tweedelijnsadvies energiescan." ;
-    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/energiehuis/GeregistreerdKlantencontactOnderwerp> ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/energiehuis/GeregistreerdKlantencontactOnderwerp> .
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/GeregistreerdKlantencontactOnderwerp> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/GeregistreerdKlantencontactOnderwerp> .
 
-<https://data.vlaanderen.be/id/concept/energiehuis/GeregistreerdKlantencontactOnderwerp/TweedelijnsadviesRenovatiebegeleiding> 
+<https://data.vlaanderen.be/id/concept/GeregistreerdKlantencontactOnderwerp/TweedelijnsadviesRenovatiebegeleiding> 
     a skos:Concept ;
     skos:prefLabel "Tweedelijnsadvies renovatiebegeleiding" ;
     skos:definition "Tweedelijnsadvies renovatiebegeleiding." ;
-    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/energiehuis/GeregistreerdKlantencontactOnderwerp> ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/energiehuis/GeregistreerdKlantencontactOnderwerp> .
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/GeregistreerdKlantencontactOnderwerp> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/GeregistreerdKlantencontactOnderwerp> .
