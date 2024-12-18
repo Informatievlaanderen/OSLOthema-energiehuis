@@ -8,49 +8,49 @@
 <https://data.vlaanderen.be/id/concept/BegeleidingType/Opvolgscan> 
     a skos:Concept ;
     skos:prefLabel "Opvolgscan" ;
-    skos:definition "Opvolgscan." ;
-    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> .
-
-<https://data.vlaanderen.be/id/concept/BegeleidingType/VTest> 
-    a skos:Concept ;
-    skos:prefLabel "V-test" ;
-    skos:definition "V-test." ;
+    skos:definition "Meting van de pandgebonden energetische waarden op een bepaald moment in tijd, na de uitvoering van energiescan of renovatie aan het pand." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> .
 
 <https://data.vlaanderen.be/id/concept/BegeleidingType/COMeting> 
     a skos:Concept ;
     skos:prefLabel "CO-meting" ;
-    skos:definition "CO-meting." ;
+    skos:definition "Meting van de pandgebonden koolmonoxide-waarde op een bepaald moment in tijd." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> .
 
-<https://data.vlaanderen.be/id/concept/BegeleidingType/Renovatieproject> 
+<https://data.vlaanderen.be/id/concept/BegeleidingType/OnderhoudVerwarmingsinstallatie> 
     a skos:Concept ;
-    skos:prefLabel "Renovatieproject" ;
-    skos:definition "Renovatieproject." ;
+    skos:prefLabel "OnderhoudVerwarmingsinstallatie" ;
+    skos:definition "Persoonlijke ondersteuning bij de verzorging en voorbereiding op controle van warmtebronnen in een pand." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> .
 
-<https://data.vlaanderen.be/id/concept/BegeleidingType/Offerteaanvraag> 
+<https://data.vlaanderen.be/id/concept/BegeleidingType/BegeleidenRenovatieproject> 
     a skos:Concept ;
-    skos:prefLabel "Offerteaanvraag" ;
-    skos:definition "Offerteaanvraag." ;
+    skos:prefLabel "BegeleidenRenovatieproject" ;
+    skos:definition "Administratieve ondersteuning bij het uitvoeren van een vernieuwing of aanpassing van een pand met oog op het verbeteren van de energetische waarden." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> .
 
-<https://data.vlaanderen.be/id/concept/BegeleidingType/Premieaanvraag> 
+<https://data.vlaanderen.be/id/concept/BegeleidingType/BegeleidenPremieaanvraag> 
     a skos:Concept ;
-    skos:prefLabel "Premieaanvraag" ;
-    skos:definition "Premieaanvraag." ;
+    skos:prefLabel "BegeleidenPremieaanvraag" ;
+    skos:definition "Persoonlijke ondersteuning bij het beroep op financiële ondersteuning na afloop van de werken." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> .
 
-<https://data.vlaanderen.be/id/concept/BegeleidingType/Leningaanvraag> 
+<https://data.vlaanderen.be/id/concept/BegeleidingType/BegeleidingLeningaanvraag> 
     a skos:Concept ;
-    skos:prefLabel "Leningaanvraag" ;
-    skos:definition "Leningaanvraag." ;
+    skos:prefLabel "BegeleidenLeningaanvraag" ;
+    skos:definition "Persoonlijke ondersteuning bij het beroep op financiële ondersteuning voor of tijdens de werken, tegen een bepaalde rentevoet en een bepaalde terugbetalingstermijn." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> .
+
+<https://data.vlaanderen.be/id/concept/BegeleidingType/PlaatsingZonnepanelen> 
+    a skos:Concept ;
+    skos:prefLabel "PlaatsingZonnepanelen" ;
+    skos:definition "Persoonlijke ondersteuning bij de selectie en constructie van PV-panelen." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> .
 
