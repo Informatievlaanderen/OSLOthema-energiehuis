@@ -8,49 +8,41 @@
 <https://data.vlaanderen.be/id/concept/AdviesverleningType/TechnischAdvies> 
     a skos:Concept ;
     skos:prefLabel "Technisch advies" ;
-    skos:definition "Technisch advies." ;
+    skos:definition "Advies op maat omtrent specifieke isolatiematerialen, groendak, warmtepomp en PV-panelen, riolering en hergebruik van materialen." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/AdviesverleningType> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/AdviesverleningType> .
-
 
 <https://data.vlaanderen.be/id/concept/AdviesverleningType/RenovatieAdvies> 
     a skos:Concept ;
     skos:prefLabel "Renovatie-advies" ;
-    skos:definition "Renovatie-advies." ;
-    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/AdviesverleningType> ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/AdviesverleningType> .
-
-<https://data.vlaanderen.be/id/concept/AdviesverleningType/PrioriteitenBepalen> 
-    a skos:Concept ;
-    skos:prefLabel "Prioriteiten bepalen" ;
-    skos:definition "Prioriteiten bepalen (stappenplan uitwerken)." ;
-    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/AdviesverleningType> ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/AdviesverleningType> .
-
-<https://data.vlaanderen.be/id/concept/AdviesverleningType/Budgetraming> 
-    a skos:Concept ;
-    skos:prefLabel "Budgetraming" ;
-    skos:definition "Budgetraming." ;
-    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/AdviesverleningType> ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/AdviesverleningType> .
-
-<https://data.vlaanderen.be/id/concept/AdviesverleningType/Financieringsopties> 
-    a skos:Concept ;
-    skos:prefLabel "Financieringsopties in kaart brengen" ;
-    skos:definition "Financieringsopties in kaart brengen (aan de hand van inkomenscheck)." ;
+    skos:definition "Tips en advies op maat omtrent mogelijke aanpassingen aan het pand met als doel de huidige staat te verbeteren en zo energie te besparen." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/AdviesverleningType> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/AdviesverleningType> .
 
 <https://data.vlaanderen.be/id/concept/AdviesverleningType/FinancieelAdvies> 
     a skos:Concept ;
     skos:prefLabel "Financieel advies" ;
-    skos:definition "Financieel advies." ;
+    skos:definition "Informatie op maat omtrent de specifieke Leningen of Premies waarvoor een klant in aanmerking komt." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/AdviesverleningType> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/AdviesverleningType> .
 
-<https://data.vlaanderen.be/id/concept/AdviesverleningType/EnergiescanType1> 
+<https://data.vlaanderen.be/id/concept/AdviesverleningType/Energiescan> 
     a skos:Concept ;
-    skos:prefLabel "Uitvoeren van een energiescan (type 1)" ;
-    skos:definition "Uitvoeren van een energiescan (type 1)." ;
+    skos:prefLabel "Energiescan" ;
+    skos:definition "Meting van de pandgebonden energetische waarden op een bepaald moment in tijd." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/AdviesverleningType> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/AdviesverleningType> .
+
+<https://data.vlaanderen.be/id/concept/AdviesverleningType/VergelijkingEnergiefactuurEnLeveranciers> 
+    a skos:Concept ;
+    skos:prefLabel "VergelijkingEnergiefactuurEnLeveranciers" ;
+    skos:definition "inschatting van de beste match tussen de klant en de energie-aanbieders, op basis van een toetsing van verschillende parameters." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/AdviesverleningType> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/AdviesverleningType> .
+
+<https://data.vlaanderen.be/id/concept/AdviesverleningType/KleinAdvies> 
+    a skos:Concept ;
+    skos:prefLabel "KleinAdvies" ;
+    skos:definition "Restcategorie - bv. interpretatie van bepaalde energie-specifieke terminologie zoals zonnekaart, thermoscan" ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/AdviesverleningType> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/AdviesverleningType> .
