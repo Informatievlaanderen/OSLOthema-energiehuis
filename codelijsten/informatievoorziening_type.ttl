@@ -5,72 +5,44 @@
     skos:prefLabel "Conceptscheme type van informatievoorziening" ;
     skos:definition "Codelijst voor type van informatievoorziening." .
 
-<https://data.vlaanderen.be/id/concept/InformatievoorzieningType/EnergetischeRenovatiewerken> 
+<https://data.vlaanderen.be/id/concept/InformatievoorzieningType/Energie> 
     a skos:Concept ;
-    skos:prefLabel "Energetische renovatiewerken" ;
-    skos:definition "Energetische renovatiewerken (incl. thermografische info, zonnekaart, …)." ;
+    skos:prefLabel "Energie" ;
+    skos:definition "Basisuitleg met betrekking tot verbruik, efficiëntie, isolatie of andere mogelijkheden om het pand zuiniger te maken." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningType> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningType> .
 
-<https://data.vlaanderen.be/id/concept/InformatievoorzieningType/VragenEPC> 
+<https://data.vlaanderen.be/id/concept/InformatievoorzieningType/BasisWoonkwaliteit> 
     a skos:Concept ;
-    skos:prefLabel "Vragen EPC" ;
-    skos:definition "Vragen over energieprestatiecertificaten (EPC)." ;
+    skos:prefLabel "Basis Woonkwaliteit" ;
+    skos:definition "Basisuitleg met betrekking tot het gedrag van de bewoner en bijbehorende algemene gedragsmaatregelen ter verbetering van het pand, net als basisuitleg om de woningkwaliteit te verbeteren (door bijvoorbeeld vocht of schimmel aan te nemen.)" ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningType> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningType> .
 
-<https://data.vlaanderen.be/id/concept/InformatievoorzieningType/PremiesInfo> 
+<https://data.vlaanderen.be/id/concept/InformatievoorzieningType/Klimaatadaptatie> 
     a skos:Concept ;
-    skos:prefLabel "Premies info" ;
-    skos:definition "Informatie over premies" ;
+    skos:prefLabel "Klimaatadaptatie" ;
+    skos:definition "Basisuitleg over maatregelen, die inspelen op de huidige en toekomstige klimaatverandering." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningType> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningType> .
 
-<https://data.vlaanderen.be/id/concept/InformatievoorzieningType/PremiesAanvraag> 
+<https://data.vlaanderen.be/id/concept/InformatievoorzieningType/Premie> 
     a skos:Concept ;
-    skos:prefLabel "Premies aanvraag" ;
-    skos:definition "Aanvraag van premies" ;
+    skos:prefLabel "Premie" ;
+    skos:definition "Basisuitleg over het aanbod aan financiële vergoedingen na afloop van een renovatie." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningType> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningType> .
 
-<https://data.vlaanderen.be/id/concept/InformatievoorzieningType/LeningInfo> 
+<https://data.vlaanderen.be/id/concept/InformatievoorzieningType/Lening> 
     a skos:Concept ;
-    skos:prefLabel "Lening info" ;
-    skos:definition "Informatie over leningen" ;
+    skos:prefLabel "Lening" ;
+    skos:definition "Basisuitleg over de verstrekking van geldbedragen tegen bepaalde rentevoet en op een bepaalde termijn " ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningType> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningType> .
 
-<https://data.vlaanderen.be/id/concept/InformatievoorzieningType/LeningAanvraag> 
+<https://data.vlaanderen.be/id/concept/InformatievoorzieningType/Doorverwijzing> 
     a skos:Concept ;
-    skos:prefLabel "Lening aanvraag" ;
-    skos:definition "Aanvraag van leningen." ;
-    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningType> ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningType> .
-
-<https://data.vlaanderen.be/id/concept/InformatievoorzieningType/Offertes> 
-    a skos:Concept ;
-    skos:prefLabel "Offertes" ;
-    skos:definition "Offertes." ;
-    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningType> ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningType> .
-
-<https://data.vlaanderen.be/id/concept/InformatievoorzieningType/EnergiefactuurEnLeveranciersvergelijking> 
-    a skos:Concept ;
-    skos:prefLabel "Energiefactuur en leveranciersvergelijking" ;
-    skos:definition "Energiefactuur en leveranciersvergelijking." ;
-    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningType> ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningType> .
-
-<https://data.vlaanderen.be/id/concept/InformatievoorzieningType/VerwijzingEnergiescan> 
-    a skos:Concept ;
-    skos:prefLabel "Verwijzing energiescan" ;
-    skos:definition "verwijzing energiescan." ;
-    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningType> ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningType> .
-
-<https://data.vlaanderen.be/id/concept/InformatievoorzieningType/VerwijzingBegeleiding> 
-    a skos:Concept ;
-    skos:prefLabel "Verwijzing begeleiding" ;
-    skos:definition "Verwijzing begeleiding." ;
+    skos:prefLabel "Doorverwijzing" ;
+    skos:definition "Doorsturen naar een gespecialiseerde dienst, binnen of buiten het energiehuis." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningType> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningType> .
