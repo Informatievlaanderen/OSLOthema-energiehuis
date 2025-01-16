@@ -2,3 +2,6 @@
 
 - Update README with correct thema name
 - Made separate config file for voc instead of bundled
+
+2025-01-16
+- Added name property to relation begeleider
