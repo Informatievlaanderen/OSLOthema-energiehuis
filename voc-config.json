@@ -3,10 +3,12 @@
   "category": "vocabularium",
   "usage": "",
   "status": "ontwerp-standaard",
-  "responsibleOrganisation": {
-    "name": "Agentschap Digitaal Vlaanderen",
-    "uri": "https://data.vlaanderen.be/id/organisatie/OVO002949"
-  },
+  "responsibleOrganisation": [
+    {
+      "name": "Agentschap Digitaal Vlaanderen",
+      "uri": "https://data.vlaanderen.be/id/organisatie/OVO002949"
+    }
+  ],
   "publicationDate": "2025-01-09",
   "descriptionFileName": "energiehuis-description.md",
   "specificationDocuments": [
