@@ -8,28 +8,28 @@
 <https://data.vlaanderen.be/id/concept/InformatievoorzieningThema/Energie> 
     a skos:Concept ;
     skos:prefLabel "Energie" ;
-    skos:definition "Basisuitleg met betrekking tot verbruik, efficiëntie, isolatie of andere mogelijkheden om het pand zuiniger te maken." ;
+    skos:definition "Basisuitleg met betrekking tot verbruik, efficiëntie, isolatie, hernieuwbare energie, restwarmte, ventilatie of andere mogelijkheden om het gebouw zuiniger te maken." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningThema> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningThema> .
 
 <https://data.vlaanderen.be/id/concept/InformatievoorzieningThema/BasisWoonkwaliteit> 
     a skos:Concept ;
     skos:prefLabel "Basis Woonkwaliteit" ;
-    skos:definition "Basisuitleg met betrekking tot het gedrag van de bewoner en bijbehorende algemene gedragsmaatregelen ter verbetering van het pand, net als basisuitleg om de woningkwaliteit te verbeteren (door bijvoorbeeld vocht of schimmel aan te nemen.)" ;
+    skos:definition "Basisuitleg met betrekking tot het gedrag van de bewoner en bijbehorende algemene gedragsmaatregelen ter verbetering van het pand, alsook over woongerelateerde onderwerpen met betrekking op veiligheid, gezondheid en woonkwaliteit, zoals verwaarlozing en leegstand." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningThema> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningThema> .
 
 <https://data.vlaanderen.be/id/concept/InformatievoorzieningThema/Klimaatadaptatie> 
     a skos:Concept ;
     skos:prefLabel "Klimaatadaptatie" ;
-    skos:definition "Basisuitleg over maatregelen, die inspelen op de huidige en toekomstige klimaatverandering." ;
+    skos:definition "Basisuitleg over maatregelen, die inspelen op het aanpassen van de woning aan de huidige en toekomstige klimaatverandering." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningThema> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningThema> .
 
 <https://data.vlaanderen.be/id/concept/InformatievoorzieningThema/Premie> 
     a skos:Concept ;
     skos:prefLabel "Premie" ;
-    skos:definition "Basisuitleg over het aanbod aan financiële vergoedingen na afloop van een renovatie." ;
+    skos:definition "Basisuitleg over het aanbod aan financiële vergoedingen voor het doorvoeren van een verandering." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningThema> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningThema> .
 
@@ -44,5 +44,12 @@
     a skos:Concept ;
     skos:prefLabel "Doorverwijzing" ;
     skos:definition "Doorsturen naar een gespecialiseerde dienst, binnen of buiten het energiehuis." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningThema> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningThema> .
+
+<https://data.vlaanderen.be/id/concept/InformatievoorzieningThema/(Sociale)Huuraangelegenheden> 
+    a skos:Concept ;
+    skos:prefLabel "(Sociale)Huuraangelegenheden" ;
+    skos:definition "Generieke informatie omtrent alle huuractiviteiten, van zowel standpunt van de huurder als verhuurder." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningThema> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningThema> .
