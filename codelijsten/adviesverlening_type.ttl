@@ -8,7 +8,7 @@
 <https://data.vlaanderen.be/id/concept/AdviesverleningType/RenovatieAdvies> 
     a skos:Concept ;
     skos:prefLabel "Renovatie-advies" ;
-    skos:definition "Tips en advies op maat omtrent mogelijke aanpassingen (zoals isolatie, groendak, warmtepomp, PV-panelen, riolering en verder hergebruik van materialen) aan het pand met als doel de huidige staat te verbeteren en zo energie te besparen." ;
+    skos:definition "Tips en advies op maat omtrent mogelijke aanpassingen (zoals isolatie, groendak, warmtepomp, PV-panelen, riolering en verder hergebruik van materialen) aan de gebouweenheid met als doel de huidige staat te verbeteren en zo energie te besparen." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/AdviesverleningType> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/AdviesverleningType> .
 
@@ -36,7 +36,7 @@
 <https://data.vlaanderen.be/id/concept/AdviesverleningType/OnderhoudVerwarmingsinstallatie> 
     a skos:Concept ;
     skos:prefLabel "OnderhoudVerwarmingsinstallatie" ;
-    skos:definition "Ondersteuning bij de verzorging en voorbereiding op controle van warmtebronnen in een pand." ;
+    skos:definition "Ondersteuning bij de verzorging en voorbereiding op controle van warmtebronnen in een gebouweenheid." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/AdviesverleningType> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/AdviesverleningType> .
 
