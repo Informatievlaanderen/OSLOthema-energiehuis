@@ -5,52 +5,31 @@
     skos:prefLabel "Conceptscheme type van begeleiding" ;
     skos:definition "Codelijst voor type van begeleiding." .
 
-<https://data.vlaanderen.be/id/concept/BegeleidingType/Opvolgscan> 
+<https://data.vlaanderen.be/id/concept/BegeleidingType/Renovatieproject> 
     a skos:Concept ;
-    skos:prefLabel "Opvolgscan" ;
-    skos:definition "Meting van de pandgebonden energetische waarden op een bepaald moment in tijd, na de uitvoering van energiescan of renovatie aan het pand." ;
+    skos:prefLabel "Renovatieproject" ;
+    skos:definition "Administratieve, organisatorische en technische ndersteuning bij het uitvoeren van een vernieuwing of aanpassing van een gebouw met oog op het verbeteren van de energetische waarden." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> .
 
-<https://data.vlaanderen.be/id/concept/BegeleidingType/COMeting> 
+<https://data.vlaanderen.be/id/concept/BegeleidingType/Premieaanvraag> 
     a skos:Concept ;
-    skos:prefLabel "CO-meting" ;
-    skos:definition "Meting van de pandgebonden koolmonoxide-waarde op een bepaald moment in tijd." ;
+    skos:prefLabel "Premieaanvraag" ;
+    skos:definition "Persoonlijke ondersteuning bij het beroep op financiële ondersteuning voor het doorvoeren van een verandering." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> .
 
-<https://data.vlaanderen.be/id/concept/BegeleidingType/OnderhoudVerwarmingsinstallatie> 
+<https://data.vlaanderen.be/id/concept/BegeleidingType/Leningaanvraag> 
     a skos:Concept ;
-    skos:prefLabel "OnderhoudVerwarmingsinstallatie" ;
-    skos:definition "Persoonlijke ondersteuning bij de verzorging en voorbereiding op controle van warmtebronnen in een pand." ;
+    skos:prefLabel "Leningaanvraag" ;
+    skos:definition "Persoonlijke ondersteuning bij de aanvraag van een financieel geldbedrag, tegen een bepaalde rentevoet en een bepaalde terugbetalingstermijn." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> .
 
-<https://data.vlaanderen.be/id/concept/BegeleidingType/BegeleidenRenovatieproject> 
+<https://data.vlaanderen.be/id/concept/BegeleidingType/(Sociale)Huuraangelegenheden> 
     a skos:Concept ;
-    skos:prefLabel "BegeleidenRenovatieproject" ;
-    skos:definition "Administratieve ondersteuning bij het uitvoeren van een vernieuwing of aanpassing van een pand met oog op het verbeteren van de energetische waarden." ;
-    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> .
-
-<https://data.vlaanderen.be/id/concept/BegeleidingType/BegeleidenPremieaanvraag> 
-    a skos:Concept ;
-    skos:prefLabel "BegeleidenPremieaanvraag" ;
-    skos:definition "Persoonlijke ondersteuning bij het beroep op financiële ondersteuning na afloop van de werken." ;
-    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> .
-
-<https://data.vlaanderen.be/id/concept/BegeleidingType/BegeleidingLeningaanvraag> 
-    a skos:Concept ;
-    skos:prefLabel "BegeleidenLeningaanvraag" ;
-    skos:definition "Persoonlijke ondersteuning bij het beroep op financiële ondersteuning voor of tijdens de werken, tegen een bepaalde rentevoet en een bepaalde terugbetalingstermijn." ;
-    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> .
-
-<https://data.vlaanderen.be/id/concept/BegeleidingType/PlaatsingZonnepanelen> 
-    a skos:Concept ;
-    skos:prefLabel "PlaatsingZonnepanelen" ;
-    skos:definition "Persoonlijke ondersteuning bij de selectie en constructie van PV-panelen." ;
+    skos:prefLabel "(Sociale)Huuraangelegenheden" ;
+    skos:definition "Persoonlijke ondersteuning omtrent alle huuractiviteiten, in het merendeel van de gevallen voor de verhuurder, maar dit is geen limitatie. Voorbeelden zijn: de inschrijving in het CIR (Centraal InschrijvingsRegister), bijstand bij bemiddeling, ..." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> .
 
