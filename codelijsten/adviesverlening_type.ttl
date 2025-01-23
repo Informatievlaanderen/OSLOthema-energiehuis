@@ -5,44 +5,44 @@
     skos:prefLabel "Conceptscheme type van adviesverlening" ;
     skos:definition "Codelijst voor type van adviesverlening." .
 
-<https://data.vlaanderen.be/id/concept/AdviesverleningType/TechnischAdvies> 
-    a skos:Concept ;
-    skos:prefLabel "Technisch advies" ;
-    skos:definition "Advies op maat omtrent specifieke isolatiematerialen, groendak, warmtepomp en PV-panelen, riolering en hergebruik van materialen." ;
-    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/AdviesverleningType> ;
-    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/AdviesverleningType> .
-
 <https://data.vlaanderen.be/id/concept/AdviesverleningType/RenovatieAdvies> 
     a skos:Concept ;
     skos:prefLabel "Renovatie-advies" ;
-    skos:definition "Tips en advies op maat omtrent mogelijke aanpassingen aan het pand met als doel de huidige staat te verbeteren en zo energie te besparen." ;
+    skos:definition "Tips en advies op maat omtrent mogelijke aanpassingen (zoals isolatie, groendak, warmtepomp, PV-panelen, riolering en verder hergebruik van materialen) aan het pand met als doel de huidige staat te verbeteren en zo energie te besparen." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/AdviesverleningType> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/AdviesverleningType> .
 
 <https://data.vlaanderen.be/id/concept/AdviesverleningType/FinancieelAdvies> 
     a skos:Concept ;
     skos:prefLabel "Financieel advies" ;
-    skos:definition "Informatie op maat omtrent de specifieke Leningen of Premies waarvoor een klant in aanmerking komt." ;
+    skos:definition "Informatie op maat omtrent de specifieke financiële ondersteuningsmiddelen waarvoor een klant in aanmerking komt." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/AdviesverleningType> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/AdviesverleningType> .
 
 <https://data.vlaanderen.be/id/concept/AdviesverleningType/Energiescan> 
     a skos:Concept ;
     skos:prefLabel "Energiescan" ;
-    skos:definition "Meting van de pandgebonden energetische waarden op een bepaald moment in tijd." ;
+    skos:definition "Tips en advies over verwarming, verlichting, huishoudtoestellen en waar mogelijk energiebesparende maatregelen." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/AdviesverleningType> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/AdviesverleningType> .
 
 <https://data.vlaanderen.be/id/concept/AdviesverleningType/VergelijkingEnergiefactuurEnLeveranciers> 
     a skos:Concept ;
     skos:prefLabel "VergelijkingEnergiefactuurEnLeveranciers" ;
-    skos:definition "inschatting van de beste match tussen de klant en de energie-aanbieders, op basis van een toetsing van verschillende parameters." ;
+    skos:definition "Inschatting van de beste match tussen de klant en de energie-aanbieders, op basis van een toetsing van verschillende parameters." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/AdviesverleningType> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/AdviesverleningType> .
 
-<https://data.vlaanderen.be/id/concept/AdviesverleningType/KleinAdvies> 
+<https://data.vlaanderen.be/id/concept/AdviesverleningType/OnderhoudVerwarmingsinstallatie> 
     a skos:Concept ;
-    skos:prefLabel "KleinAdvies" ;
-    skos:definition "Restcategorie - bv. interpretatie van bepaalde energie-specifieke terminologie zoals zonnekaart, thermoscan" ;
+    skos:prefLabel "OnderhoudVerwarmingsinstallatie" ;
+    skos:definition "Ondersteuning bij de verzorging en voorbereiding op controle van warmtebronnen in een pand." ;
+    skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/AdviesverleningType> ;
+    skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/AdviesverleningType> .
+
+<https://data.vlaanderen.be/id/concept/AdviesverleningType/(Sociale)Huuraangelegenheid> 
+    a skos:Concept ;
+    skos:prefLabel "(Sociale)Huuraangelegendheid" ;
+    skos:definition "Tips en advies omtrent alle huuractiviteiten, van zowel standpunt van de huurder als verhuurder. Kan ook voorkomen in de vorm van ondersteuning op maat omtrent het opstellen van huurcontracten, maar ook onderzoek naar discriminatie op de huurmarkt." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/AdviesverleningType> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/AdviesverleningType> .
