@@ -5,7 +5,7 @@
     "eap": "OSLO-Energiehuis-VOC.eap",
     "diagram": "Energiehuis",
     "template": "energiehuis-ap.j2",
-    "title": "Energiehuis (Nota Werkgroep)",
+    "title": "Energiehuizen (Nota Werkgroep)",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/NotaWerkgroep",
     "publication-date": "2025-02-18",
     "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
