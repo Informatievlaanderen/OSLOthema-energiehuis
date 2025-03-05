@@ -1,0 +1,68 @@
+{
+    "@context": [
+        "https://data.vlaanderen.be/doc/applicatieprofiel/energiehuis/notawerkgroep/2025-02-18/context/energiehuis.jsonld",
+        {
+            "xsd": "http://www.w3.org/2001/XMLSchema#"
+        }
+    ],
+    "@graph": [
+        {
+            "@id": "https://example.com/id/basistaak/FIN001",
+            "@type": [
+                "Financiering"
+            ],
+            "Basistaak.verstrektAan": "https://example.com/id/persoon/PERS001",
+            "Basistaak.tijdstip": {
+                "@type": "Moment",
+                "Moment.inEDTF": {
+                    "@value": "20250101",
+                    "@type": "http://id.loc.gov/datatypes/edtf/EDTF"
+                }
+            },
+            "Basistaak.verrichtDoor": "https://example.com/id/energiehuis/ORG001",
+            "Financiering.type": "https://example.com/financieringtype/VlaamseEnergielening",
+            "Financiering.financieringVan": {
+                "@type": "Renovatieproject",
+                "Renovatieproject.gerenoveerdGebouw": {
+                    "@type": "Gebouw",
+                    "Gebouw.adres": {
+                        "@type": "Adresvoorstelling",
+                        "Adresvoorstelling.volledigAdres": {
+                            "@value": "Mercatorstraat 12, 1070 Anderlecht",
+                            "@language": "nl"
+                        }
+                    }
+                }
+            },
+            "Financiering.output": {
+                "@type": "Lening",
+                "Output.type": "https://example.com/outputtype/VlaamseEnergielening",
+                "Financieringsoutput.bedrag": {
+                    "@type": "Geldbedrag",
+                    "KwantitatieveWaarde.waarde": {
+                        "@value": "15000",
+                        "@type": "xsd:integer"
+                    },
+                    "Geldbedrag.valuta": {
+                        "@id": "http://qudt.org/vocab/currency/EUR",
+                        "@type": "Valuta"
+                    }
+                },
+                "Financieringsoutput.uitbetalingStart": "20250101",
+                "Financieringsoutput.gefinancierdDoor": "https://example.com/id/energiehuis/ORG002",
+                "Lening.looptijd": "10Y",
+                "Lening.rentevoet": {
+                    "@type": "KwantitatieveWaarde",
+                    "KwantitatieveWaarde.waarde": {
+                        "@value": "0",
+                        "@type": "xsd:float"
+                    },
+                    "KwantitatieveWaarde.eenheid": {
+                        "@id": "http://qudt.org/vocab/unit/PERCENT-PER-YR",
+                        "@type": "Eenheid"
+                    }
+                }
+            }
+        }
+    ]
+}
