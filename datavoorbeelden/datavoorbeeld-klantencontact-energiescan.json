@@ -1,0 +1,33 @@
+{
+    "@context": [
+        "https://data.vlaanderen.be/doc/applicatieprofiel/energiehuis/notawerkgroep/2025-02-18/context/energiehuis.jsonld",
+        {}
+    ],
+    "@graph": [
+        {
+            "@id": "https://example.com/id/klantencontact/KLC001",
+            "@type": [
+                "Klantencontact",
+                "Plaatsbezoek",
+                "Energiescan",
+                "GeregistreerdContact"
+            ],
+            "Ccontact.onderwerp": "https://example.com/onderwerptype/energiescan",
+            "Plaatsbezoek.locatie": {
+                "@type": "Adresvoorstelling",
+                "Adresvoorstelling.volledigAdres": "Mercatorstraat 12, 1070 Anderlecht"
+            },
+            "Basistaak.verstrektAan": "https://example.com/id/persoon/PERS001",
+            "BasisTaak.tijdstip": {
+                "@type": "Moment",
+                "Moment.inEDTF": "20250101"
+            },
+            "Basistaak.verrichtDoor": "https://example.com/id/energiehuis/ORG001",
+            "Energiescan.energiescanner": "https://example.com/id/persoon/PERS002",
+            "PubliekeDienstverlening.produceert": {
+                "@type": "Output",
+                "Output.type": "https://example.com/outputtype/energiescan"
+            }
+        }
+    ]
+}
