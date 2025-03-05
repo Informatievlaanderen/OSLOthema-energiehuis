@@ -1,0 +1,74 @@
+{
+    "@context": [
+        "https://data.vlaanderen.be/doc/applicatieprofiel/energiehuis/notawerkgroep/2025-02-18/context/energiehuis.jsonld",
+        {
+            "Organisatie.kanaal": {
+                "@reverse": "Kanaal.eigendomVan"
+            }
+        }
+    ],
+    "@graph": [
+        {
+            "@id": "https://example.com/id/energiehuis/ORG001",
+            "@type": "Energiehuis",
+            "Organisatie.voorkeursnaam": {
+                "@value": "3Wplus",
+                "@language": "nl"
+            },
+            "PubliekeOrganisatie.werkingsgebied": [
+                {
+                    "@type": "Plaats",
+                    "Plaats.plaatsnaam": {
+                        "@value": "Affligem",
+                        "@language": "nl"
+                    }
+                },
+                {},
+                {
+                    "@type": "Plaats",
+                    "Plaats.plaatsnaam": {
+                        "@value": "Zemst",
+                        "@language": "nl"
+                    }
+                }
+            ],
+            "Organisatie.contactinfo": {
+                "@type": "Contactinfo",
+                "Contactinfo.adres": {
+                    "@type": "Adresvoorstelling",
+                    "Adresvoorstelling.volledigAdres": {
+                        "@value": "Z.5 Mollem 250, 1730 Mollem, België",
+                        "@language": "nl"
+                    }
+                },
+                "Contactinfo.email": "energie@Rwplus.be",
+                "Contactinfo.telefoon": "024866486",
+                "Contactinfo.website": "https://energiehuis.3wplus.be"
+            },
+            "Organisatie.kanaal": [
+                {
+                    "@type": "Kanaal",
+                    "Kanaal.type": [
+                        "https://example.com/kanaaltype/telefoon",
+                        "https://example.com/kanaaltype/email",
+                        "https://example.com/kanaaltype/terplaatseOpAfspraak"
+                    ],
+                    "Contactinfo.openingsuren": {
+                        "@value": "Mo-Fr 09:00-17:00",
+                        "@type": "https://example.com/specificatietype/openinghours_schemaDotOrg"
+                    }
+                },
+                {
+                    "@type": "Kanaal",
+                    "Kanaal.type": [
+                        "https://example.com/kanaaltype/liveChat"
+                    ],
+                    "Contactinfo.openingsuren": {
+                        "@value": "Mo-Fr 09:00-12:30",
+                        "@type": "https://example.com/specificatietype/openinghours_schemaDotOrg"
+                    }
+                }
+            ]
+        }
+    ]
+}
