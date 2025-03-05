@@ -8,6 +8,7 @@
     "title": "Energiehuizen (Nota Werkgroep)",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/NotaWerkgroep",
     "publication-date": "2025-02-18",
+    "site":"site-skeleton/mijn-applicatieprofiel-ap",
     "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Rol",
