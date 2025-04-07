@@ -5,7 +5,7 @@
     "eap": "OSLO-Energiehuis-VOC.eap",
     "diagram": "Energiehuis",
     "template": "energiehuis-ap.j2",
-    "title": "Energiehuizen (Nota Werkgroep)",
+    "title": "Energiehuis (Nota Werkgroep)",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/NotaWerkgroep",
     "publication-date": "2025-02-18",
     "site":"site-skeleton/mijn-applicatieprofiel-ap",
