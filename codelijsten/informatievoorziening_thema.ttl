@@ -8,7 +8,7 @@
 <https://data.vlaanderen.be/id/concept/InformatievoorzieningThema/Energie> 
     a skos:Concept ;
     skos:prefLabel "Energie" ;
-    skos:definition "Basisuitleg met betrekking tot verbruik, efficiëntie, isolatie, hernieuwbare energie, restwarmte, ventilatie of andere mogelijkheden om de gebouweenheid zuiniger te maken." ;
+    skos:definition "Basisuitleg met betrekking tot verbruik, efficiëntie, isolatie, hernieuwbare energie, restwarmte, ventilatie, EPC of andere mogelijkheden om de gebouweenheid zuiniger te maken." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningThema> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningThema> .
 
