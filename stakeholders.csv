@@ -1,22 +1,19 @@
 Voornaam;Naam;Affiliatie;E-mail;Website;Rol
-Sara;Ochelen;Vlaams Energie- en Klimaatagentschap;;https://www.vlaanderen.be/veka;A
-Thomas;Pieters;Vlaams Energie- en Klimaatagentschap;;https://www.vlaanderen.be/veka;A
-Louise;Ysewijn;Digitaal Vlaanderen;;https://www.vlaanderen.be/digitaal-vlaanderen;E
-Arne;Daniels;Digitaal Vlaanderen;;https://www.vlaanderen.be/digitaal-vlaanderen;E
-Mieke;Grillet;Stad Leuven;;https://leuven.be/;A
-Saar;Verhoogen;Stad Leuven;;https://leuven.be/;C
-Yonas;Deweerdt;Stad Leuven;;https://leuven.be/;C
-Gert;Druyts;Energiehuis Kempen - IOK;;https://www.duurzaamwonen.be/over/energiehuis-kempen;C
-Nathalie;Vryghem;Energiehuis W13;;https://www.welzijn13.be/energiehuis-w13;C
-Noémie;Jacobs;Energiehuis Veneco;;https://www.veneco.be/nl/energiehuis;C
+Sara;Ochelen;Vlaams Energie- en Klimaatagentschap;;OVO000090;A
+Thomas;Pieters;Vlaams Energie- en Klimaatagentschap;;OVO000090;A
+Louise;Ysewijn;Digitaal Vlaanderen;;OVO002949;E
+Arne;Daniels;Digitaal Vlaanderen;;OVO002949;E
+Geert;Thijs;Digitaal Vlaanderen;;OVO002949;E
+Mieke;Grillet;Stad Leuven;;OVO002149;A
+Saar;Verhoogen;Stad Leuven;;OVO002149;C
+Yonas;Deweerdt;Stad Leuven;;OVO002149;C
+Gert;Druyts;Energiehuis Kempen - IOK;;OVO003473;C
+Nathalie;Vryghem;Energiehuis W13;;OVO003569;C
+Noémie;Jacobs;Energiehuis Veneco;;OVO003389;C
 Ina;Metalidis;Energiehuis Limburg;;https://energiehuislimburg.be/;C
 Lina;Nurali;Energiehuis Antwerpen;;https://www.antwerpenvoorklimaat.be/;C
 Anke;Hermans;De Energiecentrale;;https://stad.gent/nl/de-energiecentrale;C
-Lucas;Dondeyne;3W+;;https://3wplus.be/;C
-Emy;Nys;Wonen in Vlaanderen;;https://www.vlaanderen.be/wonen-in-vlaanderen;C
+Lucas;Dondeyne;3W+;;OVO008733;C
+Emy;Nys;Wonen in Vlaanderen;;OVO000106;C
 Lotte;Stevens;Energiehuis Antwerpen;;https://www.antwerpenvoorklimaat.be/;C
-Sabine;Mols;IGEAN dienstverlening;;https://www.igean.be/;C
-Geert;Thijs;Digitaal Vlaanderen;;https://www.vlaanderen.be/digitaal-vlaanderen;E
-Laurens;Vercauteren;Digitaal Vlaanderen;;https://www.vlaanderen.be/digitaal-vlaanderen;E
-Eveline ;Vlassenroot;Digitaal Vlaanderen;;https://www.vlaanderen.be/digitaal-vlaanderen;E
-Liesbeth;Van der Haegen;Digitaal Vlaanderen;;https://www.vlaanderen.be/digitaal-vlaanderen;E
+Sabine;Mols;IGEAN dienstverlening;;OVO003465;C
