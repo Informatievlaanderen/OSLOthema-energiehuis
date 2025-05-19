@@ -8,7 +8,7 @@
 <https://data.vlaanderen.be/id/concept/BegeleidingType/Renovatieproject> 
     a skos:Concept ;
     skos:prefLabel "Renovatieproject" ;
-    skos:definition "Administratieve, organisatorische en technische ndersteuning bij het uitvoeren van een vernieuwing of aanpassing van een gebouweenheid met oog op het verbeteren van de energetische waarden." ;
+    skos:definition "Administratieve, organisatorische en technische ondersteuning bij het uitvoeren van een vernieuwing of aanpassing van een gebouweenheid met oog op het verbeteren van de energetische waarden. Dit kan zowel op het niveau van een Gebouweenheid, Gebouw of op het niveau van een hele wijk (collectief)." ;
     skos:inscheme <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> ;
     skos:topConceptOf <https://data.vlaanderen.be/id/conceptscheme/BegeleidingType> .
 
