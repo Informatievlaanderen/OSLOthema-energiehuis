@@ -15,7 +15,12 @@
     {
       "name": "Energiehuis Vocabularium",
       "resourceReference": "https://data.vlaanderen.be/ns/energiehuis"
-    }
+    },
+{
+      "name": "Energiehuis Applicatieprofiel",
+      "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/energiehuis"
+    },
+    
   ],
   "documentation": [
     {
