@@ -1,19 +1,19 @@
 Voornaam;Naam;Affiliatie;E-mail;Website;Rol
-Sara;Ochelen;Vlaams Energie- en Klimaatagentschap;;OVO000090;A
-Thomas;Pieters;Vlaams Energie- en Klimaatagentschap;;OVO000090;A
-Louise;Ysewijn;Digitaal Vlaanderen;;OVO002949;E
-Arne;Daniels;Digitaal Vlaanderen;;OVO002949;E
-Geert;Thijs;Digitaal Vlaanderen;;OVO002949;E
-Mieke;Grillet;Stad Leuven;;OVO002149;A
-Saar;Verhoogen;Stad Leuven;;OVO002149;C
-Yonas;Deweerdt;Stad Leuven;;OVO002149;C
-Gert;Druyts;Energiehuis Kempen - IOK;;OVO003473;C
-Nathalie;Vryghem;Energiehuis W13;;OVO003569;C
-Noémie;Jacobs;Energiehuis Veneco;;OVO003389;C
+Sara;Ochelen;Vlaams Energie- en Klimaatagentschap;;https://data.vlaanderen.be/doc/organisatie/OVO000090;A
+Thomas;Pieters;Vlaams Energie- en Klimaatagentschap;;https://data.vlaanderen.be/doc/organisatie/OVO000090;A
+Louise;Ysewijn;Digitaal Vlaanderen;;https://data.vlaanderen.be/doc/organisatie/OVO002949;E
+Arne;Daniels;Digitaal Vlaanderen;;https://data.vlaanderen.be/doc/organisatie/OVO002949;E
+Geert;Thijs;Digitaal Vlaanderen;;https://data.vlaanderen.be/doc/organisatie/OVO002949;E
+Mieke;Grillet;Stad Leuven;;https://data.vlaanderen.be/doc/organisatie/OVO002149;A
+Saar;Verhoogen;Stad Leuven;;https://data.vlaanderen.be/doc/organisatie/OVO002149;C
+Yonas;Deweerdt;Stad Leuven;;https://data.vlaanderen.be/doc/organisatie/OVO002149;C
+Gert;Druyts;Energiehuis Kempen - IOK;;https://data.vlaanderen.be/doc/organisatie/OVO003473;C
+Nathalie;Vryghem;Energiehuis W13;;https://data.vlaanderen.be/doc/organisatie/OVO003569;C
+Noémie;Jacobs;Energiehuis Veneco;;https://data.vlaanderen.be/doc/organisatie/OVO003389;C
 Ina;Metalidis;Energiehuis Limburg;;https://energiehuislimburg.be/;C
 Lina;Nurali;Energiehuis Antwerpen;;https://www.antwerpenvoorklimaat.be/;C
 Anke;Hermans;De Energiecentrale;;https://stad.gent/nl/de-energiecentrale;C
-Lucas;Dondeyne;3W+;;OVO008733;C
-Emy;Nys;Wonen in Vlaanderen;;OVO000106;C
+Lucas;Dondeyne;3W+;;https://data.vlaanderen.be/doc/organisatie/OVO008733;C
+Emy;Nys;Wonen in Vlaanderen;;https://data.vlaanderen.be/doc/organisatie/OVO000106;C
 Lotte;Stevens;Energiehuis Antwerpen;;https://www.antwerpenvoorklimaat.be/;C
-Sabine;Mols;IGEAN dienstverlening;;OVO003465;C
+Sabine;Mols;IGEAN dienstverlening;;https://data.vlaanderen.be/doc/organisatie/OVO003465;C
