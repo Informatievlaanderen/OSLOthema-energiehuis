@@ -1,6 +1,6 @@
 {
   "title": "Applicatieprofiel Energiehuis",
-  "category": "applicatieprofiel",
+  "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
   "usage": "Aanbevolen (vrijwillig)",
   "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
   "responsibleOrganisation": {
