@@ -1,8 +1,8 @@
 {
   "title": "Vocabularium Energiehuis",
   "category": "vocabularium",
-  "usage": "",
-  "status": "",
+  "usage": "Aanbevolen (vrijwillig)",
+  "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
   "responsibleOrganisation": [
     {
       "name": "Agentschap Digitaal Vlaanderen",
@@ -19,7 +19,7 @@
   ],
   "documentation": [
     {
-      "name": "Energiehuis Applicatieprofiel",
+      "name": "Applicatieprofiel Energiehuis",
       "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/energiehuis"
     },
     {
