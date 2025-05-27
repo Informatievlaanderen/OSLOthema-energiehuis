@@ -1,12 +1,14 @@
 {
   "title": "Applicatieprofiel Energiehuis",
   "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
-  "usage": "Aanbevolen (vrijwillig)",
+  "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
   "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
-  "responsibleOrganisation": {
-    "name": "Agentschap Digitaal Vlaanderen",
-    "uri": "https://data.vlaanderen.be/id/organisatie/OVO002949"
-  },
+  "responsibleOrganisation": [
+    {
+      "name": "Agentschap Digitaal Vlaanderen",
+      "uri": "https://data.vlaanderen.be/id/organisatie/OVO002949"
+    }
+  ],
   "publicationDate": "",
   "descriptionFileName": "energiehuis-description.md",
   "specificationDocuments": [
@@ -15,6 +17,10 @@
       "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/energiehuis"
     }
   ],
+  "charter": {
+    "name": "Charter OSLO Energiehuis",
+    "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/energiehuis"
+  },
   "documentation": [
     {
       "name": "Vocabularium Energiehuis",
