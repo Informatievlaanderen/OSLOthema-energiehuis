@@ -16,7 +16,7 @@ EAP-files met de UML-diagrammen.\
 Configuratie en bestanden voor het publiceren van de specs in de folders config, site-skeleton en templates.\
 Een [changelog]() met wijzigingen tov vorige versies.\
 Diverse resources:
-- Een overzicht van de [use cases]()
+- Een overzicht van de [use cases](https://github.com/Informatievlaanderen/OSLOthema-energiehuis/blob/main/usecases.md)
 - Een overzicht van gebruikte [bronnen]() (standaarden, implementaties, regelgeving).
 - Het [modelleringsrapport](https://github.com/Informatievlaanderen/OSLOthema-energiehuis/blob/main/resources/ModelleerrapportEnergiehuis.pdf).
 - Een map met [datavoorbeelden](https://github.com/Informatievlaanderen/OSLOthema-energiehuis/tree/main/datavoorbeelden).
