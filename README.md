@@ -3,7 +3,7 @@
 ## Inleiding
 
 Dit OSLO-traject heeft tot doel om een datamodel te ontwikkelen waarmee de werking van Energiehuizen kan worden beschreven. Energiehuizen zorgen voor informatie, verlenen advies en begeleiden burgers bij oa de uitvoering van energiebesparende maatregelen en het verstrekken van leningen en premies in dat verband. Een gemeenschappelijk begrippenkader was nodig voor Energiehuizen om rapportering van hun activiteiten te faciliteren, hun CRM-systeem te ontwikkelen, de evolutie naar loketten te faciliteren en sowieso om begrippe uit het Energiebesluit te verhelderen.
-Een en ander heeft geleid tot een [vocabularium](https://data.vlaanderen.be/ns/energiehuis/) met begrippen en een [applicatieprofiel]https://data.vlaanderen.be/doc/applicatieprofiel/energiehuis/) dat de samenhang toont en hoe deze begrippen te gebruiken.
+Een en ander heeft geleid tot een [vocabularium](https://data.vlaanderen.be/ns/energiehuis/) met begrippen en een [applicatieprofiel](https://data.vlaanderen.be/doc/applicatieprofiel/energiehuis/) dat de samenhang toont en hoe deze begrippen te gebruiken.
 Het traject werd opgezet ihkv een Gemeente-zonder-gemeentehuis (GZG) project van de Stad Leuven en werd mede ondersteunf door het [Vlaams Energie- en Klimaat Agentschap](https://www.vlaanderen.be/veka) (VEKA), in co-creatie met verschillende Energiehuizen. 
 
 ## Verslagen en presentaties
