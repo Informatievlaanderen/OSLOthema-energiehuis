@@ -12,13 +12,13 @@
                 "Energiescan",
                 "GeregistreerdContact"
             ],
-            "Ccontact.onderwerp": "https://example.com/onderwerptype/energiescan",
+            "Contact.onderwerp": "https://example.com/onderwerptype/energiescan",
             "Plaatsbezoek.locatie": {
                 "@type": "Adresvoorstelling",
                 "Adresvoorstelling.volledigAdres": "Mercatorstraat 12, 1070 Anderlecht"
             },
             "Basistaak.verstrektAan": "https://example.com/id/persoon/PERS001",
-            "BasisTaak.tijdstip": {
+            "Basistaak.tijdstip": {
                 "@type": "Moment",
                 "Moment.inEDTF": "20250101"
             },
@@ -31,3 +31,4 @@
         }
     ]
 }
+
