@@ -29,4 +29,4 @@ Volgende specificaties worden met de volgende status voorgelegd op WG datastanda
 
 | Naam|Status|Uitgiftedatum|AP|VOC|
 | --- |--- |---|---|---|
-|Energiehuis|KandidaatStandaard|20250512|[Link](https://data.vlaanderen.be/doc/applicatieprofiel/Energiehuis)|[Link](https://data.vlaanderen.be/ns/energiehuis)|
+|Energiehuis|KandidaatStandaard|20250512|[Link](https://data.vlaanderen.be/doc/applicatieprofiel/energiehuis/)|[Link](https://data.vlaanderen.be/ns/energiehuis/)|
