@@ -17,7 +17,7 @@ Configuratie en bestanden voor het publiceren van de specs in de folders config,
 Een [changelog]() met wijzigingen tov vorige versies.\
 Diverse resources:
 - Een overzicht van de [use cases](https://github.com/Informatievlaanderen/OSLOthema-energiehuis/blob/main/usecases.md)
-- Een overzicht van gebruikte [bronnen]() (standaarden, implementaties, regelgeving).
+- Een overzicht van gebruikte [bronnen](https://github.com/Informatievlaanderen/OSLOthema-energiehuis/blob/main/bronnen.md) (standaarden, implementaties, regelgeving).
 - Het [modelleringsrapport](https://github.com/Informatievlaanderen/OSLOthema-energiehuis/blob/main/resources/ModelleerrapportEnergiehuis.pdf).
 - Een map met [datavoorbeelden](https://github.com/Informatievlaanderen/OSLOthema-energiehuis/tree/main/datavoorbeelden).
 
