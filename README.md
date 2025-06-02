@@ -17,7 +17,7 @@ Diverse resources:
 - Een overzicht van de [use cases]()
 - Een overzicht van gebruikte [bronnen]() (standaarden, implementaties, regelgeving).
 - Het [modelleringsrapport](https://github.com/Informatievlaanderen/OSLOthema-energiehuis/blob/main/resources/ModelleerrapportEnergiehuis.pdf).
-- Een map met [datavoorbeelden]().
+- Een map met [datavoorbeelden](https://github.com/Informatievlaanderen/OSLOthema-energiehuis/tree/main/datavoorbeelden).
 
 ## Issues
 
