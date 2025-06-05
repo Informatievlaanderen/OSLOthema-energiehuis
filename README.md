@@ -14,7 +14,7 @@ De verslagen en presentaties van dit traject kan je terugvinden op het [Standaar
 
 EAP-files met de UML-diagrammen.\
 Configuratie en bestanden voor het publiceren van de specs in de folders config, site-skeleton en templates.\
-Een [changelog]() met wijzigingen tov vorige versies.\
+Een [changelog](./CHANGELOG) met wijzigingen tov vorige versies.\
 Diverse resources:
 - Een overzicht van de [use cases](https://github.com/Informatievlaanderen/OSLOthema-energiehuis/blob/main/usecases.md)
 - Een overzicht van gebruikte [bronnen](https://github.com/Informatievlaanderen/OSLOthema-energiehuis/blob/main/bronnen.md) (standaarden, implementaties, regelgeving).
