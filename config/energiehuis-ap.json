@@ -5,7 +5,7 @@
     "eap": "OSLO-Energiehuis-VOC.eap",
     "diagram": "Energiehuis",
     "template": "energiehuis-ap.j2",
-    "title": "Energiehuis (Applicatieprofiel)",
+    "title": "Applicatieprofiel Energiehuis",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
     "publication-date": "2025-05-12",
     "site":"site-skeleton/mijn-applicatieprofiel-ap",
