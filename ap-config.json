@@ -24,7 +24,7 @@
   "documentation": [
     {
       "name": "Vocabularium Energiehuis",
-      "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/energiehuis"
+      "resourceReference": "https://data.vlaanderen.be/ns/energiehuis/"
     },
     {
       "name": "Codelijst informatievoorziening thema's",
